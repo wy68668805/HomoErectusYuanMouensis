@@ -8,6 +8,11 @@
 	color: #ffffff;
 	white-space: nowrap;
 }
+
+.clear{
+	clear: both;
+}
+
 #container {
 	width: 100%;
 	margin: 0 auto;
@@ -59,7 +64,7 @@
 }
 
 .first_down{
-	margin-top: 122px;
+	margin-top: 100px;
 }
 
 
@@ -67,3 +72,225 @@
 	background: #f3f1f1;
 	height: 945px;
 }
+
+.second_height{
+	height: 78px;
+}
+
+.pas_en{
+	font-size: STHeiti Light [STXihei];
+	color: #535252;
+	font-size: 24px;
+}
+
+.pas_zh{
+	margin-top:5px;
+	color: #ef4c5d;
+	font-size:24px;
+}
+
+.need_zh{
+	margin-top:18px;
+	color: #535252;
+	font-size: 24px;
+}
+
+.need_en{
+	color: #535252;
+	font-size: 20px;
+}
+
+.monopolys{
+	margin: 30px auto 0 auto; 
+	width: 1194px;
+}
+
+#first_monopoly{
+	margin-right: 40px;
+}
+
+#second_monopoly{
+	margin-right: 38px;
+}
+
+#third_monopoly{
+	margin-right: 40px;
+}
+
+.monopoly{
+	float: left;
+	width: 269px;
+	/*margin-left: 38px;*/
+}
+
+.second_buid{
+	margin-top:10px;
+	color: #e14959;
+	font-size: 20px;
+}
+
+.second_buid_en{
+	font-size: 17px;
+	color: #1c1b1b;
+	white-space:normal;
+	/*font-weight: bold*/
+}
+
+.urright{
+	margin-top:30px;
+	font-size:24px;
+	color: #535252;
+}
+
+.urright_en{
+	margin-top:5px;
+	color: #535252;
+	font-size:20px;
+}
+
+.second_down{
+	margin-top: 25px;
+}
+
+
+.third_sreen{
+	background: #ef4c5d;
+	height: 945px;
+}
+
+.third_height{
+	height: 85px;
+}
+
+.third_step1_en{
+	color: #ffcc00;
+	font-size:30px;
+	font-weight: bold;
+}
+
+.third_step1{
+	margin-top:10px;
+	font-size:30px;
+}
+
+.contact_us{
+	margin-top:50px;
+	color: #ffcc00;
+	font-size:36px;
+}
+
+.contact_us_en{
+	margin-top:3px;
+	color: #ffcc00;
+	font-size:36px;
+}
+
+.contact_infos{
+	width: 1181px;
+	margin: 61px auto 0 auto; 
+}
+
+.contact_info{
+	float: left;
+}
+
+#contact_info1{
+	margin-right: 20px;
+}
+
+#contact_info2{
+	margin-right: 16px;
+}
+
+#contact_info3{
+	margin-right: 21px;
+}
+
+.c_ikey{
+	margin-top: 13px;
+}
+.c_i{
+	font-size: 20px;
+	font-weight:bold;
+}
+
+.third_down{
+	margin-top: 59px;
+}
+
+
+
+.forth_screen{
+	height: 945px;
+	background: #ffcc00;
+}
+
+.forth_height{
+	height: 83px;
+}
+
+.forth_step2_en{
+	font-size: 30px;
+	color: #5f2600;
+	font-weight: bold;
+}
+
+.forth_step2{
+	color: #ef4c5d;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+.cehua{
+	padding-top:160px;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.cehua img{
+	width: 435px;
+	float: left;
+}
+
+.cehua_intro{
+	margin-top:38px;
+	margin-left:40px;
+	float:left;
+	text-align: left;
+}
+
+.cehua_font{
+	color: #5f2600;
+	font-size: 36px;
+}
+
+.cehua_font_en{
+	color: #5f2600;
+	font-size: 30px;
+	font-family: Arial;
+}
+
+.forth_down{
+	margin-top: 110px;
+}
+
+
+.fifth_screen{
+	height: 945px;
+	background: #282828;
+}
+
+.fifth_height{
+	height: 79px;
+}
+
+.fifth_step3_en{
+	color: #dddddd;
+	font-size: 30px;
+}
+
+.fifth_step3{
+	color:#ffcc00;
+	font-size: 30px;
+}
+
