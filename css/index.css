@@ -277,7 +277,7 @@
 
 .fifth_screen{
 	height: 945px;
-	background: #282828;
+	background: #2aaacf;
 }
 
 .fifth_height{
@@ -285,12 +285,47 @@
 }
 
 .fifth_step3_en{
-	color: #dddddd;
+	color: #fffd67;
 	font-size: 30px;
 }
 
 .fifth_step3{
-	color:#ffcc00;
+	color:#ffffff;
 	font-size: 30px;
+	margin-top: 10px;
 }
 
+
+
+.hetong{
+	padding-top:160px;
+	width: 900px;
+	margin: 0 auto;
+}
+
+.hetong img{
+	width: 435px;
+	float: left;
+}
+
+.hetong_intro{
+	margin-top:78px;
+	margin-left:40px;
+	float:left;
+	text-align: left;
+}
+
+.hetong_font{
+	color: #fffd67;
+	font-size: 36px;
+}
+
+.hetong_font_en{
+	color: #fffd67;
+	font-size: 30px;
+	font-family: Arial;
+}
+
+.fifth_down{
+	margin-top: 110px;
+}
