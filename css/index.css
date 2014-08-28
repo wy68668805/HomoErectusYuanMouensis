@@ -426,3 +426,79 @@
 	font-family: Arial;
 	margin-bottom: 5px;
 }
+
+.eighth_screen{
+	height: 945px;
+	background: #ef4c5d;
+}
+
+.eight_height{
+	height: 56px;
+}
+
+.eighth_bg{
+	background: url(../img/eighth_bg.jpg) no-repeat;
+	height: 756px;
+	width: 756px;
+	margin: 0 auto;
+}
+
+.bg_height{
+	height: 78px;
+}
+
+.share{
+	font-size: 30px;
+}
+
+.share_en{
+	font-size: 20px;
+	color: #ef4c5d;
+	margin-top: 3px;
+}
+
+.yuanmou{
+	color: #d8d8d8;
+	font-size: 17px;
+	margin-top: 20px;
+}
+
+.yuanmou_en{
+	color: #d8d8d8;
+	font-size: 17px;
+	margin-top: 7px;
+}
+
+.wsq_share{
+	margin-top: 60px;
+}
+
+.wsq_share a{
+	margin: 0 7px;
+}
+
+.iff_share{
+	margin-top: 26px;
+}
+
+.iff_share a{
+	margin: 0 7px;
+}
+
+.email_share{
+	margin-top: 79px;
+	font-size: 20px;
+	color: #d8d8d8;
+	
+	
+}
+
+.email_share a{
+	text-decoration:underline;
+	color:#ef4c5d
+}
+
+
+.eighth_down{
+	margin-top: 28px;
+}
