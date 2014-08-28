@@ -329,3 +329,100 @@
 .fifth_down{
 	margin-top: 110px;
 }
+
+
+.sixth_screen{
+	height: 945px;
+	background: #282828;
+}
+
+
+.sixth_step4_en{
+	color: #dddddd;
+	font-size: 30px;
+}
+
+.sixth_step4{
+	color:#ffcc00;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+.kaifa{
+	padding-top:160px;
+	width: 920px;
+	margin: 0 auto;
+}
+
+.kaifa img{
+	width: 435px;
+	float: left;
+}
+
+.kaifa_intro{
+	margin-top:78px;
+	margin-left:40px;
+	float:left;
+	text-align: left;
+}
+
+.kaifa_font{
+	color: #fef6d1;
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+.kaifa_font_en{
+	color: #fef6d1;
+	font-size: 30px;
+	font-family: Arial;
+	margin-bottom: 5px;
+}
+
+.seventh_screen{
+	height: 945px;
+	background: #eae9e7;
+}
+
+.seventh_step5_en{
+	color: #ef4c5d;
+	font-size: 30px;
+}
+
+.seventh_step5{
+	color: #00b878;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+
+.weihu{
+	padding-top:160px;
+	width: 920px;
+	margin: 0 auto;
+}
+
+.weihu img{
+	width: 435px;
+	float: left;
+}
+
+.weihu_intro{
+	margin-top:78px;
+	margin-left:40px;
+	float:left;
+	text-align: left;
+}
+
+.weihu_font{
+	color: #ef4c5d;
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+.weihu_font_en{
+	color: #ef4c5d;
+	font-size: 30px;
+	font-family: Arial;
+	margin-bottom: 5px;
+}
